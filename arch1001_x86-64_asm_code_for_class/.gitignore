@@ -1,0 +1,5 @@
+*.log
+*.txt
+.DS_Store
+x64
+Debug
